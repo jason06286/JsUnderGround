@@ -1,0 +1,118 @@
+[
+    {
+        "prizes2017": [
+            {
+                "prizeName": "Movie",
+                "amount": 1,
+                "iconClassName": "movie_filter"
+            },
+            {
+                "prizeName": "Wish",
+                "amount": 1,
+                "iconClassName": "cake"
+            },
+            {
+                "prizeName": "Anything",
+                "amount": 5,
+                "iconClassName": "stars"
+            },
+            {
+                "prizeName": "Child",
+                "amount": 1,
+                "iconClassName": "child_care"
+            },
+            {
+                "prizeName": "Flight",
+                "amount": 1,
+                "iconClassName": "flight"
+            },
+            {
+                "prizeName": "Wifi",
+                "amount": 5,
+                "iconClassName": "wifi"
+            }
+        ],
+        "prizes2018": [
+            {
+                "prizeName": 1,
+                "amount": 1
+            },
+            {
+                "prizeName": 2,
+                "amount": 1
+            },
+            {
+                "prizeName": 3,
+                "amount": 1
+            },
+            {
+                "prizeName": 4,
+                "amount": 1
+            },
+            {
+                "prizeName": 5,
+                "amount": 1
+            },
+            {
+                "prizeName": 6,
+                "amount": 1
+            },
+            {
+                "prizeName": 7,
+                "amount": 1
+            },
+            {
+                "prizeName": 8,
+                "amount": 1
+            },
+            {
+                "prizeName": 9,
+                "amount": 1
+            },
+            {
+                "prizeName": 10,
+                "amount": 1
+            },
+            {
+                "prizeName": 11,
+                "amount": 1
+            },
+            {
+                "prizeName": 12,
+                "amount": 1
+            },
+            {
+                "prizeName": 13,
+                "amount": 1
+            },
+            {
+                "prizeName": 14,
+                "amount": 1
+            },
+            {
+                "prizeName": 15,
+                "amount": 1
+            },
+            {
+                "prizeName": 16,
+                "amount": 1
+            },
+            {
+                "prizeName": 17,
+                "amount": 5
+            },
+            {
+                "prizeName": 18,
+                "amount": 10
+            },
+            {
+                "prizeName": 19,
+                "amount": 20
+            },
+            {
+                "prizeName": 20,
+                "amount": 69
+            }
+        ]
+    }
+]
