@@ -18,7 +18,7 @@ export default {
     const isShow18 = ref(false);
 
     async function getData() {
-      const res = await (await fetch('/src/api/prize.json')).json();
+      const res = await (await fetch('/api/prize.json')).json();
       prizes17.value = res[0].prizes2017;
       prizes18.value = res[0].prizes2018;
     }
